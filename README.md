@@ -19,4 +19,7 @@ I created this personal README to help you learn more about me and my working st
 
 <br>
 
-Inspired by [Anne Lasch](https://gitlab.com/alasch/about-anne)
+##### Inspired by
+
+I found [Anne Lasch's](https://gitlab.com/alasch/about-anne) ReadMe. She inspired me! So I wrote my own ReadMe.
+
