@@ -21,7 +21,7 @@ My current job title is: Software Developer PHP. But I would say it's a full sta
 In 2018, I started my own business on the side.
 
 ## My working style
-+ **I'm based in CET and like to start by 6 am.** I'm a eary bird. Sometimes I go running before work.
++ **I'm based in CET and like to start by 6 am.** I'm a early bird. Sometimes I go running before work.
 + **I take a longer break during the day** to go for a walk outside.
 
 ## Strengths and quirks
